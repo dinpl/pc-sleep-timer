@@ -3,7 +3,8 @@ This is where you can find a python executable to shutdown your pc after a certa
 
 2.4 Set-Up Instructions
 1. The Version 2.4 folder will have 3 files.
-2. COPY the SHORTCUT to desktop.
+2. Download and extract the folder.
+3. COPY the SHORTCUT to desktop.
    
 Note: Do NOT MOVE the picture or executable. Doing so will break the program.
 
